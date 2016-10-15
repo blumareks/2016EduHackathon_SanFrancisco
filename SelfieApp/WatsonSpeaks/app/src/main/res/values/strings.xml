@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Watson Speaks v1.0</string>
+    <string name="speakButton1">speak</string>
+    <string name="speakText1">This is Watson. Pleased to meet you!</string>
+    <string name="speakButton2">speak</string>
+    <string name="speakText2">IBM Bluemix uses cognitive services</string>
+    <string name="text3">Welcome to IBM Booth - ask us questions on running Watson in your apps on our cloud!</string>
+    <string name="speakButton3">speak</string>
+    <string name="textView">Status for Watson Developer Cloud sdk for Java</string>
+</resources>
