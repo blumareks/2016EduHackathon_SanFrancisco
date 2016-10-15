@@ -23,7 +23,7 @@ You’ll build a simple application with a button, an editable text field, and a
 The idea - create the GUI First, create a simple single view application with a graphical user interface (GUI) that includes a text field, a label, and a button. When a user presses the button, the text in the text field is to be sent to Watson service (that would be implemented in the next steps), which analyzes it and returns an JSON with analysis results that is shown in the output - view or label field.
 
 For now you would take the text in the text field and simply echo it in the label field when the button is pressed.
-[The video shows how the UI is being built.](https://www.youtube.com/VT9GjjlMHOo)
+[The video shows how the UI is being built.](https://youtu.be/QkSGvkdCF0E)
 
 Start a new project. The project is to be run on phones and tablets. Add an empty activity. Keep the defaults for the MainActivity. Update the design in the MainActivity.xml file. Add EditText field. Add a button and resize the ViewText field. Finally wire the UI with the code.
 
@@ -153,7 +153,7 @@ public class MainActivity extends AppCompatActivity {
 <b>Add the Watson lib: Watson-Developer-Cloud SDK for Java.</b>
 Check the detaily described steps here at <a href="http://ibm.biz/Bdr6vv" target="_blank">Watson Developer Cloud SDK for JAVA</a>
 
-[Here comes entire video of the below described steps:](https://www.youtube.com/f_yEKaM4xy4)
+[Here comes entire video of the below described steps:](https://youtu.be/cR5oCuw6Y3o)
 
 Add also the classes for the Android Sound.
 Watson Developer Cloud SDK for Android classes. Alternatively copy over the classes (as it was shown on the provided video).
