@@ -1,8 +1,4 @@
-<b>If you want to try an Android app with Watson Voice in 10 minutes – this blog post is for you.</b>
-
-As a Java developer have you ever drunk an espresso?
-<blockquote>This blog post describes how one could add Watson’s cognitive service to an Android app in under 10 minutes</blockquote>
-About 10 minutes is more less equal to get the above mentioned Android app in espresso style prepared, served and drunk.
+##Watson Speech to text app
 
 The voice user interface is a great element for enhancing IoT, Robots, or your vehicle user interface while driving (not able to look away from the road ahead). IBM is giving you could extend your application with such an interface in about 10 minutes.
 
@@ -206,7 +202,9 @@ And finally add the call to the Watson TTS service before the return clause:
 You are ready to run and hear the voice of IBM Watson!
 
 <b>Check the entire code:</b>
-<pre>package com.ibm.watsonvoicetts;
+
+```java
+package com.ibm.watsonvoicetts;
 
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
@@ -284,8 +282,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-
-</pre>
+```
 <b>Prerequisites:</b>
 – <a href="https://developer.android.com/studio/index.html" target="_blank">getting the Android Studio, and install it, run it – for windows and/or mac</a>
 – <a href="https://developer.android.com/training/basics/firstapp/running-app.html" target="_blank">Get yourself either a real Android device (a smartphone or a tablet and the data cable), and enable the device for development – follow the instruction for real device</a>
