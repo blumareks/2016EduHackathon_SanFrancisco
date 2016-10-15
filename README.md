@@ -10,4 +10,4 @@ Here comes the resources and the quizes. Please submit to the provided email the
 
 Check the details in the attached repositories:
 - intro to Android
-- advanced topics in Android - using [Text to Speech Service intro example](https://github.com/blumareks/2016EduHackathon_SanFrancisco/tree/master/SelfieApp/WatsonSpeaks) [take a selfie github example](https://github.com/IBM-MIL/take-a-selfie)
+- advanced topics in Android - using [Text to Speech Service intro example](https://github.com/blumareks/2016EduHackathon_SanFrancisco/tree/master/SelfieApp/WatsonSpeaks) , [take a selfie github example](https://github.com/IBM-MIL/take-a-selfie)
