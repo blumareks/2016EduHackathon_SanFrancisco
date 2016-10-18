@@ -1,4 +1,4 @@
-##Watson Speech to text app
+##Watson Text to Speech app
 
 The voice user interface is a great element for enhancing IoT, Robots, or your vehicle user interface while driving (not able to look away from the road ahead). IBM is giving you could extend your application with such an interface in about 10 minutes.
 
